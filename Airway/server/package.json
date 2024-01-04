@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.3",
+    "mongodb": "^6.3.0"
+  },
+  "name": "server",
+  "version": "1.0.0",
+  "main": "aero.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start":"nodemon aero.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
